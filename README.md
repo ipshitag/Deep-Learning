@@ -9,6 +9,7 @@ Real life problems, are complex in nature and many times, it wont follow any alg
 - reveal hidden relationships, patterns and predictions
 - model highly volatile data (such as financial time series data)
 
+# Types
 
 Areas where neural networks can be useful in better decision making:
 
